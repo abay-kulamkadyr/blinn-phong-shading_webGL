@@ -16,7 +16,7 @@ A WebGL implementation of the Blinn-Phong shading model applied to the Stanford 
 - **Clone the Repository**:
    ```bash
    git clone https://github.com/abay-kulamkadyr/blinn-phong-shading_webGL.git
-   cd blinn-phong-shading_webGL
+   cd blinn-phong-shading_webGL/src
    ``` 
    Run a Local Server (Required for loading shaders):
 
