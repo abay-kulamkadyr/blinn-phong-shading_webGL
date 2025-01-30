@@ -17,15 +17,14 @@ A WebGL implementation of the Blinn-Phong shading model applied to the Stanford 
    ```bash
    git clone https://github.com/your-username/blinn-phong-webgl.git
    cd blinn-phong-webgl
+   ``` 
+   Run a Local Server (Required for loading shaders):
 
-    Run a Local Server (Required for loading shaders):
-    bash
-    Copy
-
+   ```bash
     python server.py
-
-    Access via Browser: Open http://localhost:8000 in a WebGL-supported browser.
    ```
+   Access via Browser: Open http://localhost:8000 in a WebGL-supported browser.
+
 ## Controls
 Mouse:
 
